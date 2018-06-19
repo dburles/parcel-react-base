@@ -2,6 +2,6 @@
 
 ## How to run
 
-`yarn`
+`npm i`
 
-`yarn start`
+`npm start`
