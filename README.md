@@ -22,4 +22,3 @@ Enable Eslint `--fix` on save in your editor.
 * [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks)
 * React fragment support
 * browserslist configuration
-* 
