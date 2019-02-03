@@ -1,4 +1,5 @@
 import React from 'react';
 import { render } from 'react-dom';
+import CounterButton from './components/CounterButton';
 
-render(<p>Hello</p>, document.getElementById('root'));
+render(<CounterButton />, document.getElementById('root'));
