@@ -14,6 +14,7 @@ Enable Eslint `--fix` on save in your editor.
 
 ## Features
 
+* [Parcel](https://parceljs.org/)
 * [Reach Router](https://reach.tech/router)
 * [Styled Components](https://www.styled-components.com/)
 * [Styled System](https://jxnblk.com/styled-system/)
