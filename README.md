@@ -2,6 +2,7 @@
 
 An opinionated starter with the very latest Eslint and React configuration.
 
+https://github.com/dburles/parcel-react-base
 
 ## Features
 
