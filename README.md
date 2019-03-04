@@ -15,7 +15,7 @@ https://github.com/dburles/parcel-react-base
 * [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks) 
 * React fragment [short syntax](https://reactjs.org/docs/fragments.html#short-syntax) support `<>...</>`
 * [browserslist](https://github.com/browserslist/browserslist) configuration 📝
-* Ensure nothing terrible ends up in your code with pre-commit linting via [husky](https://github.com/typicode/husky) 💩
+* Ensure nothing terrible ends up in your code with pre-commit linting via [lint-staged](https://github.com/okonet/lint-staged) and [husky](https://github.com/typicode/husky) 🚫💩
 
 ## Setup
 
