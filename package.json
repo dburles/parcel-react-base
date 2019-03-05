@@ -82,6 +82,7 @@
         }
       ],
       "react-hooks/rules-of-hooks": "error",
+      "react-hooks/exhaustive-deps": "warn",
       "import/newline-after-import": "error",
       "import-order-alphabetical/order": [
         "error",
