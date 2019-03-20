@@ -16,7 +16,7 @@
     "start": "NODE_ENV=development parcel src/index.html",
     "build": "parcel build src/index.html",
     "test": "npm run test:lint",
-    "test:lint": "eslint src --ext js"
+    "test:lint": "eslint src"
   },
   "devDependencies": {
     "@babel/core": "^7.3.4",
