@@ -1,5 +1,5 @@
 import React from 'react';
 import { render } from 'react-dom';
-import CounterButton from './components/CounterButton';
+import App from './components/App';
 
-render(<CounterButton />, document.getElementById('root'));
+render(<App />, document.getElementById('root'));
