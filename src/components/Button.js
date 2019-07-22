@@ -7,11 +7,10 @@ const Button = props => {
       sx={{
         py: 2,
         px: 3,
-        bg: 'primary',
         border: 'none',
         borderRadius: 3,
-        color: 'white',
         fontSize: 2,
+        variant: 'buttons.primary',
       }}
       {...props}
     />
