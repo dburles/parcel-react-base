@@ -38,7 +38,7 @@
     "@emotion/core": "^10.0.14",
     "@mdx-js/react": "^1.0.27",
     "@reach/router": "^1.2.1",
-    "@theme-ui/presets": "^0.2.10",
+    "@theme-ui/preset-bulma": "^0.2.29",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "theme-ui": "^0.2.14"

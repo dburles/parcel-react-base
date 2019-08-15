@@ -1,4 +1,4 @@
-import { bulma } from '@theme-ui/presets';
+import bulma from '@theme-ui/preset-bulma';
 
 // https://theme-ui.com/theme-spec
 export default {
