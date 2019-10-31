@@ -94,12 +94,6 @@
       ]
     }
   },
-  "babel": {
-    "plugins": [
-      "emotion",
-      "@babel/transform-runtime"
-    ]
-  },
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
