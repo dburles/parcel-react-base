@@ -14,7 +14,4 @@ export default {
       backgroundColor: 'yellow',
     },
   },
-  styles: {
-    ...bulma,
-  },
 };
