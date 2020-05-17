@@ -20,6 +20,7 @@
   "devDependencies": {
     "@babel/core": "^7.8.7",
     "@babel/plugin-transform-runtime": "^7.8.3",
+    "@emotion/babel-plugin-jsx-pragmatic": "^0.1.5",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.8.0",
     "eslint-config-prettier": "^6.10.0",
@@ -30,18 +31,16 @@
     "eslint-plugin-react-hooks": "^2.5.0",
     "husky": "^4.2.3",
     "lint-staged": "^10.0.8",
-    "parcel": "^2.0.0-nightly.142",
-    "prettier": "^1.19.1"
+    "parcel": "^2.0.0-nightly.270",
+    "prettier": "^2.0.5"
   },
   "dependencies": {
-    "@emotion/core": "^10.0.28",
-    "@mdx-js/react": "^1.5.7",
     "@reach/router": "^1.3.3",
     "@theme-ui/preset-bulma": "^0.3.0",
+    "mystical": "^1.0.7",
     "prop-types": "^15.7.2",
     "react": "^16.13.0",
-    "react-dom": "^16.13.0",
-    "theme-ui": "^0.3.1"
+    "react-dom": "^16.13.0"
   },
   "eslintConfig": {
     "env": {
@@ -90,7 +89,8 @@
         {
           "newlines-between": "never"
         }
-      ]
+      ],
+      "react/react-in-jsx-scope": "off"
     }
   },
   "husky": {
