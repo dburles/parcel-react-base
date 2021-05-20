@@ -1,0 +1,23 @@
+{
+  "extends": [
+    "env"
+  ],
+  "parserOptions": {
+    "ecmaVersion": 2021,
+    "sourceType": "module"
+  },
+  "rules": {
+    "arrow-body-style": [
+      "error",
+      "always"
+    ],
+    "curly": [
+      "error",
+      "all"
+    ],
+    "no-sparse-arrays": 0,
+    "react/jsx-fragments": ["error", "element"],
+    "react/react-in-jsx-scope": "off",
+    "jsdoc/require-jsdoc": "off"
+  }
+}

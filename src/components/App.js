@@ -1,18 +1,17 @@
 import { Router } from '@reach/router';
-import React from 'react';
-import { ThemeProvider } from 'theme-ui';
-import theme from '../theme';
-import NotFound from './NotFound';
-import Page from './Page';
+import { MysticalProvider } from 'mystical';
+import theme from '../theme.js';
+import NotFound from './NotFound.js';
+import Page from './Page.js';
 
 const App = () => {
   return (
-    <ThemeProvider theme={theme}>
+    <MysticalProvider theme={theme}>
       <Router>
         <Page path="/" />
         <NotFound default />
       </Router>
-    </ThemeProvider>
+    </MysticalProvider>
   );
 };
 

@@ -1,13 +1,17 @@
-/** @jsx jsx */
 import { useState } from 'react';
-import { jsx } from 'theme-ui';
-import Button from './Button';
+import Button from './Button.js';
 
-function Page() {
+const Page = () => {
   const [count, setCount] = useState(0);
   return (
-    <Button onClick={() => setCount(count + 1)}>Pressed {count} times</Button>
+    <Button
+      onClick={() => {
+        return setCount(count + 1);
+      }}
+    >
+      Pressed {count} times
+    </Button>
   );
-}
+};
 
 export default Page;
