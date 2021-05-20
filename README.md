@@ -7,10 +7,9 @@ https://github.com/dburles/parcel-react-base
 ## Features
 
 * [Parcel](https://parceljs.org/) 📦
-* [Theme UI](https://theme-ui.com/)
+* [Mystical](https://github.com/dburles/mystical) 🌌
 * [Reach Router](https://reach.tech/router) ⛓
-* [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks) 
-* [browserslist](https://github.com/browserslist/browserslist) configuration 📝
+* [eslint-config-env](https://github.com/jaydenseric/eslint-config-env)
 * Ensure nothing terrible ends up in your code with pre-commit linting via [lint-staged](https://github.com/okonet/lint-staged) and [husky](https://github.com/typicode/husky) 🚫💩
 
 ## Setup
