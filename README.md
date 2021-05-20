@@ -6,7 +6,7 @@ https://github.com/dburles/parcel-react-base
 
 ## Features
 
-* [Parcel](https://parceljs.org/) 📦
+* [Parcel 2](https://parceljs.org/) 📦
 * [Mystical](https://github.com/dburles/mystical) 🌌
 * [Reach Router](https://reach.tech/router) ⛓
 * [eslint-config-env](https://github.com/jaydenseric/eslint-config-env)
