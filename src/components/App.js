@@ -1,9 +1,8 @@
 import { Router } from '@reach/router';
 import { MysticalProvider } from 'mystical';
-import React from 'react';
-import theme from '../theme';
-import NotFound from './NotFound';
-import Page from './Page';
+import theme from '../theme.js';
+import NotFound from './NotFound.js';
+import Page from './Page.js';
 
 const App = () => {
   return (
